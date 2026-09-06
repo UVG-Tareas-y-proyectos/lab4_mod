@@ -1,10 +1,5 @@
 # Laboratorio 04 - Modelación y Simulación (2026)
 
-**Universidad del Valle de Guatemala**
-
-
-
-
 ### 1. Problema 2: Modelo de Producción y Períodos Múltiples (ACME Manufacturing)
 
 * **Objetivo:** Minimizar costo total de producción e inventario durante 6 meses con capacidad máxima de 225 ventanas/mes.
